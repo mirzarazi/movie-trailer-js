@@ -41,8 +41,8 @@ TMDB_API_KEY=[your api key from tmdb] yarn test
 ```Unit tests has been developed also E2E tests has been implemented as well```
 
 # Future improvements
-* Implementing logging system
-* Developing test for modules and constructor
+* Developing test for middlewares and constructor
+* improving caching system
 * Configuring CI/CD
 
 ----------
