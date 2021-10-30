@@ -1,0 +1,8 @@
+{
+  "env": "development",
+  "port": 3000,
+  "tmdb": {
+    "baseUrl":"https://api.themoviedb.org/",
+    "apiKey": ""
+  }
+}
